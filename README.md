@@ -1,5 +1,5 @@
 ## Hi, I'm Brian Min 👋
-I am currently a final year MEng Computer science student at UCL.
+A final year MEng Computer science student at UCL.
 
 - 🔭 I’m currently working on [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate)
 
