@@ -30,4 +30,4 @@ A final year MEng Computer science student at UCL.
 ### My Github Stats
 
 [![Brian's github stats](https://github-readme-stats.vercel.app/api?username=bymi15&show_icons=true&theme=react)](https://github.com/bymi15)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bymi15&layout=compact&theme=react&langs_count=10&hide=assembly,Makefile,CSS,Html,C)](https://github.com/bymi15)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bymi15&layout=compact&theme=react&langs_count=7&hide=CSS,Html)](https://github.com/bymi15)
