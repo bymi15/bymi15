@@ -22,7 +22,7 @@ A final year MEng Computer science student at UCL.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bymi15&repo=express-typeorm-rest-boilerplate&theme=react)](https://github.com/bymi15/express-typeorm-rest-boilerplate)
 <br/>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bymi15&repo=ShoppingPlatform&theme=react)](https://github.com/bymi15/ShoppingPlatform)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bymi15&repo=react-edit-text&theme=react)](https://github.com/bymi15/react-edit-text)
 <br/>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bymi15&repo=InstagramVision&theme=react)](https://github.com/bymi15/InstagramVision)
 
