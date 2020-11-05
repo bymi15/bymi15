@@ -1,7 +1,7 @@
 ## Hi, I'm Brian Min 👋
 A final year MEng Computer science student at UCL.
 
-- 🔭 My recent open source projects are [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate) and [react-edit-text](https://github.com/bymi15/react-edit-text)
+- 🔭 My recent open source projects are [react-edit-text](https://github.com/bymi15/react-edit-text) and [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate)
 
 - 🌱 I’m currently learning **Unity** to build 3D virtual environments
 
