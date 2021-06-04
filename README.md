@@ -1,5 +1,5 @@
 ## Hi, I'm Brian Min 👋
-A final year MEng Computer science student at UCL.
+Incoming software engineer at American Express (based in London)
 
 - 🔭 My open source projects are [react-edit-text](https://github.com/bymi15/react-edit-text) and [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate)
 
