@@ -3,7 +3,8 @@ A final year MEng Computer science student at UCL.
 
 - 🔭 My open source projects are [react-edit-text](https://github.com/bymi15/react-edit-text) and [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate)
 
-- 🌱 I recently completed my MEng project on developing a 3D virtual space for university events: https://www.youtube.com/watch?v=bqh3O8WMJgE
+- 🌱 I recently completed my MEng project on developing a 3D virtual space for university events:<br>
+   https://www.youtube.com/watch?v=bqh3O8WMJgE
 
 - 👨‍💻 Check out my portfolio at [http://brianmin.tech](http://brianmin.tech)
 
