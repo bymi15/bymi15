@@ -6,7 +6,7 @@ Graduate software engineer at American Express (based in London)
 - 🌱 I recently completed my MEng project on developing a 3D virtual space for university events:<br>
    https://www.youtube.com/watch?v=bqh3O8WMJgE
 
-- 👨‍💻 Check out my portfolio at [http://brianmin.tech](http://brianmin.tech)
+- 👨‍💻 Check out my portfolio at [https://brianmin.com](https://brianmin.com)
 
 - 💬 Ask me about **React, Redux, Django, RESTful API services**
 
