@@ -1,5 +1,5 @@
 ## Hi, I'm Brian Min 👋
-Incoming software engineer at American Express (based in London)
+Graduate software engineer at American Express (based in London)
 
 - 🔭 My open source projects are [react-edit-text](https://github.com/bymi15/react-edit-text) and [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate)
 
@@ -8,7 +8,7 @@ Incoming software engineer at American Express (based in London)
 
 - 👨‍💻 Check out my portfolio at [http://brianmin.tech](http://brianmin.tech)
 
-- 💬 Ask me about **React, Redux, Java, Django, RESTful API services**
+- 💬 Ask me about **React, Redux, Django, RESTful API services**
 
 - 📫 Leave me a mail at **bymi15@yahoo.com**
 
