@@ -1,14 +1,14 @@
 ## Hi, I'm Brian Min 👋
 Graduate software engineer at American Express (based in London)
 
-- 🔭 My open source projects are [react-edit-text](https://github.com/bymi15/react-edit-text) and [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate)
+- 🔭 My open source projects are [react-edit-text](https://github.com/bymi15/react-edit-text), [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate), and [go-mongo-serverless-crud-boilerplate](https://github.com/bymi15/go-mongo-serverless-crud-boilerplate)
 
-- 🌱 I recently completed my MEng project on developing a 3D virtual space for university events:<br>
+- 🌱 I completed my Masters of Engineering project on creating Uniworld: a 3D virtual space for university events:<br>
    https://www.youtube.com/watch?v=bqh3O8WMJgE
 
-- 👨‍💻 Check out my portfolio at [https://brianmin.com](https://brianmin.com)
+- 👨‍💻 Check out my website [https://brianmin.com](https://brianmin.com)
 
-- 💬 Ask me about **React, Redux, Django, RESTful API services**
+- 💬 Ask me about **React, Redux, Jamstack, RESTful API services**
 
 - 📫 Leave me a mail at **bymi15@yahoo.com**
 
