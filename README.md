@@ -3,7 +3,7 @@ Software engineer at American Express (based in London)
 
 - 🔭 My open source projects are [react-edit-text](https://github.com/bymi15/react-edit-text), [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate), and [go-mongo-serverless-crud-boilerplate](https://github.com/bymi15/go-mongo-serverless-crud-boilerplate)
 
-- 🌱 I completed my Masters of Engineering project on creating Uniworld: a 3D virtual space for university events:<br>
+- 🌱 I completed my Master of Engineering project on creating Uniworld: a 3D virtual space for university events:<br>
    https://www.youtube.com/watch?v=bqh3O8WMJgE
 
 - 👨‍💻 Check out my website [https://brianmin.com](https://brianmin.com)
