@@ -1,5 +1,5 @@
 ## Hi, I'm Brian Min 👋
-Graduate software engineer at American Express (based in London)
+Software engineer at American Express (based in London)
 
 - 🔭 My open source projects are [react-edit-text](https://github.com/bymi15/react-edit-text), [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate), and [go-mongo-serverless-crud-boilerplate](https://github.com/bymi15/go-mongo-serverless-crud-boilerplate)
 
@@ -14,7 +14,6 @@ Graduate software engineer at American Express (based in London)
 
 ### Connect with me
 
-<a href="https://www.leetcode.com/bymi15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="bymi15" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bymi15" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="bymi15" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/6213508" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="6213508" height="30" width="40" /></a>
 <br/><br/>
