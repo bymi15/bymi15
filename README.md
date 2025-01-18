@@ -1,7 +1,7 @@
 ## Hi, I'm Brian Min 👋
 Software engineer based in London
 
-- 🌊 In my spare time, I build stuff on the Flow Blockchain
+- 🌊 In my spare time, I work on side projects including building NFT marketplaces on Flow and EVM
 
 - 🔭 My open source projects are [react-edit-text](https://github.com/bymi15/react-edit-text), [express-typeorm-rest-boilerplate](https://github.com/bymi15/express-typeorm-rest-boilerplate), and [go-mongo-serverless-crud-boilerplate](https://github.com/bymi15/go-mongo-serverless-crud-boilerplate)
 
