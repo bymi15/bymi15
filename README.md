@@ -12,7 +12,7 @@
 ### About me
 
 - 💼 I work full-time at a hedge fund, building data-heavy internal full-stack web applications
-- 🏦 Ex-Senior Engineer at **American Express**, where I built event-driven microservices and internal web applications
+- 🏦 Ex-Senior Engineer at American Express, where I built event-driven microservices and internal web applications
 - 🥇 Built the **first NFT marketplace on the Story blockchain**
 - 🔗 Previously spent several years building NFT marketplaces and smart contracts on **Flow** and **EVM** chains as side projects
 - 🎓 For my Master of Engineering project I built **Uniworld**, a 3D virtual space for university events ([watch the demo](https://www.youtube.com/watch?v=bqh3O8WMJgE))
